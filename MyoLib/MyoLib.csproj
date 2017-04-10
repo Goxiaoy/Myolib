@@ -38,6 +38,7 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bluetooth\MyoHeadFile.cs" />
     <Compile Include="Bluetooth\MyoHw.cs" />
     <Compile Include="Bluetooth\MyoService.cs" />
     <Compile Include="EventSystem.cs" />
